@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MultiPageForm/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/MultiPageForm/static/js/main.237277e8.chunk.js",
+    "main.js.map": "/MultiPageForm/static/js/main.237277e8.chunk.js.map",
+    "runtime-main.js": "/MultiPageForm/static/js/runtime-main.e37c052f.js",
+    "runtime-main.js.map": "/MultiPageForm/static/js/runtime-main.e37c052f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/MultiPageForm/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.46bf7bc7.chunk.js": "/MultiPageForm/static/js/2.46bf7bc7.chunk.js",
+    "static/js/2.46bf7bc7.chunk.js.map": "/MultiPageForm/static/js/2.46bf7bc7.chunk.js.map",
+    "static/js/3.5d864e39.chunk.js": "/MultiPageForm/static/js/3.5d864e39.chunk.js",
+    "static/js/3.5d864e39.chunk.js.map": "/MultiPageForm/static/js/3.5d864e39.chunk.js.map",
+    "index.html": "/MultiPageForm/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/MultiPageForm/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/MultiPageForm/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.46bf7bc7.chunk.js.LICENSE.txt": "/MultiPageForm/static/js/2.46bf7bc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e37c052f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.46bf7bc7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.237277e8.chunk.js"
+  ]
+}
